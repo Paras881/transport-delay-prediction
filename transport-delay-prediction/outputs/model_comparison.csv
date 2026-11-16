@@ -1,0 +1,6 @@
+model,CV_MAE,CV_RMSE,CV_R2,Test_MAE,Test_RMSE,Test_R2
+Baseline (mean),6.476,8.108,-0.002,7.142,8.926,-0.016
+Linear Regression,3.599,4.491,0.692,3.513,4.539,0.737
+Ridge Regression,3.501,4.39,0.706,3.43,4.412,0.752
+Random Forest,3.542,4.434,0.7,3.6,4.55,0.736
+Gradient Boosting (HistGB),3.558,4.455,0.697,3.445,4.422,0.751
